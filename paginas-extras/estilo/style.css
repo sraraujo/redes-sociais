@@ -30,6 +30,8 @@ div img{
 #container{
     overflow-y: auto;
     background-color: white;
+
+    margin: auto;
 }
 
 a{
