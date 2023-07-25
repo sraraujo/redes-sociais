@@ -20,7 +20,7 @@ body{
 div#tela{
     display: flex;
     width: 311px;
-    height: 627px;
+    height: 620px;
 
 
     background-image: url('../imagens/frame-iphone.png');
@@ -28,7 +28,7 @@ div#tela{
     background-position: center center;
 
     position: absolute;
-    top: 50%;
+    top: 51%;
     left: 50%;
 
     transform: translate(-50%, -50%);
@@ -43,7 +43,7 @@ iframe{
     top: 50%;
     left: 50%;
 
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -48%);
 }
 
 nav{
@@ -63,6 +63,11 @@ a{
 a, img.bola{
     width: 50px;
     height: 50px;
+}
+
+a:hover{
+    border: 3px dashed yellow;
+    border-radius: 50px 50px;
 }
 
 img.bola{
