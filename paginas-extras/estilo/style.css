@@ -29,6 +29,7 @@ div img{
 
 #container{
     overflow-y: auto;
+    background-color: white;
 }
 
 a{
