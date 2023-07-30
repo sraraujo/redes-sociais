@@ -67,4 +67,14 @@ section#redes-sociais img{
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.661);
 }
 
+img:hover{
+    border: 2px solid yellow;
+    transform: translate(-3%, -3%);
+    transition: .06s;
+}
 
+@media screen and (max-width: 525px) {
+    #redes-sociais#redes-sociais img{   
+        width: 25px;
+    }
+}
