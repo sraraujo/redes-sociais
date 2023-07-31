@@ -68,7 +68,7 @@ img:hover{
     transition: .06s;
 }
 
-@media screen and (max-width: 525px) {
+@media screen and (max-width: 527px) {
     #redes-sociais#redes-sociais img{   
         width: 20px;
     }
