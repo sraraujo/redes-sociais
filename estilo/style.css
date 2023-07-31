@@ -69,7 +69,7 @@ img:hover{
 }
 
 @media screen and (max-width: 527px) {
-    #rede-sociais img{   
+    #rede-social img{   
         width: 25px;
     }
 }
