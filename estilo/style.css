@@ -59,11 +59,12 @@ iframe#tela{
     border-radius: 50%;
 
     border-radius: 50%;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.661);    
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.661);   
+    background-color: #ffffff; 
 }
 
 img:hover{
-    border: 2px solid yellow;
+    border: 2px solid #ffff00;
     transform: translate(-3%, -3%);
     transition: .06s;
 }
